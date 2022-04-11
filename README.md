@@ -1,16 +1,19 @@
-### Hi there 👋
+![0xFEEDC0DE64's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xFEEDC0DE64&show_icons=true&theme=radical)
 
-<!--
-**0xFEEDC0DE64/0xFEEDC0DE64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xFEEDC0DE64&layout=compact)
 
-Here are some ideas to get you started:
+### Languages
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+
+### Technologies
+
+![Qt](https://img.shields.io/badge/-Qt-000?&logo=Qt)
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![Influxdb](https://img.shields.io/badge/-Influxdb-000?&logo=Influxdb)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?&logo=MariaDB)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)
+
+<b>🔥 Github Streaks</b>
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=0xFEEDC0DE64&theme=dark&date_format=j%20M%5B%20Y%5D)]
