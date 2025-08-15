@@ -1,3 +1,6 @@
+# All my development efforts have shifted away from GitHub to my own self-hosted instance [code.brunner.ninja](https://code.brunner.ninja/)
+Commits to previous repos and especially new repos are only found there, github is only used as archive anymore
+
 ![0xFEEDC0DE64's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xFEEDC0DE64&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xFEEDC0DE64&layout=compact)
